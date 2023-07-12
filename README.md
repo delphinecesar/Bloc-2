@@ -15,6 +15,6 @@ Use the dataset to understand what makes people interested into each other to go
 You may use descriptive statistics
 You may use visualisations
 
-## Certification details:
+## Certification information:
 * Email adress: delphinecesar@gmail.com
 * Video presentation:
