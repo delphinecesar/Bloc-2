@@ -16,5 +16,5 @@ You may use descriptive statistics
 You may use visualisations
 
 ## Certification information
-* Email adress: delphinecesar@gmail.com
+* Email address: delphinecesar@gmail.com
 * Video presentation:
