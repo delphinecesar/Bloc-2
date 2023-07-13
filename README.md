@@ -1,5 +1,9 @@
 # Bloc 2: Project Speed Dating
 
+## Certification information
+* Email address: delphinecesar@gmail.com
+* Video presentation: https://share.vidyard.com/watch/zznjMbUr5Ughc8U7zLLB2F
+
 ## Project 🚧
 
 The marketing team needs help on a new project. They are experiencing a decrease in the number of matches, and they are trying to find a way to understand what makes people interested into each other.
@@ -14,7 +18,3 @@ Use the dataset to understand what makes people interested into each other to go
 
 You may use descriptive statistics
 You may use visualisations
-
-## Certification information
-* Email address: delphinecesar@gmail.com
-* Video presentation: https://share.vidyard.com/watch/zznjMbUr5Ughc8U7zLLB2F
