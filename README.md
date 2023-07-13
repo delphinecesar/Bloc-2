@@ -17,4 +17,4 @@ You may use visualisations
 
 ## Certification information
 * Email address: delphinecesar@gmail.com
-* Video presentation:
+* Video presentation: https://share.vidyard.com/watch/zznjMbUr5Ughc8U7zLLB2F
